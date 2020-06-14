@@ -1,6 +1,5 @@
 ---
 title: "Capstone Project Effectiveness of a Drug"
-author: "Hannes Schiller"
 date: "3/23/2020"
 output: pdf_document
 ---
